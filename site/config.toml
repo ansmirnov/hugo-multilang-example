@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "ru-ru"
-title = "My New Hugo Site"
+defaultContentLanguage = "ru"
+theme = "tt"
+
+[languages]
+  [languages.ru]
+    title = "Тестовый сайт"
+  [languages.en]
+    title = "Test site"
