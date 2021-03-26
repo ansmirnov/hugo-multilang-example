@@ -1,0 +1,12 @@
+
+{{ define "main" }}
+
+List pages in section {{ .Title }}
+
+<ul>
+{{ range .Pages }}
+<li >{{ .Title }}
+{{ end }}
+</ul>
+
+{{ end }}
