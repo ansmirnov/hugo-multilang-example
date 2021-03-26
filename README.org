@@ -1,3 +1,13 @@
 #+TITLE: Hugo multilang example
 
 An example of build a multilingual website on hugo.
+
+** How to use
+
+1. Install [[https://gohugo.io][hugo]].
+
+2. =cd site=
+
+3. =hugo serve=
+
+4. Open URL: http://localhost:1313/
