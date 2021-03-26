@@ -1,0 +1,5 @@
+[translations]
+other = "Translations"
+
+[wordCount]
+other = "This article has {{ .WordCount }} words."

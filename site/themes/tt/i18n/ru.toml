@@ -1,0 +1,5 @@
+[translations]
+other = "Переводы"
+
+[wordCount]
+other = "Статья содержит {{ .WordCount }} слов."
