@@ -1,1 +1,3 @@
 #+TITLE: Hugo multilang example
+
+An example of build a multilingual website on hugo.
