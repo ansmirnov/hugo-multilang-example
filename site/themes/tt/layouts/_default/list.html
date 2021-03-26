@@ -5,7 +5,7 @@ List pages in section {{ .Title }}
 
 <ul>
 {{ range .Pages }}
-<li >{{ .Title }}
+<li> <a href="{{ .Permalink }}">{{ .Title }}</a>
 {{ end }}
 </ul>
 
